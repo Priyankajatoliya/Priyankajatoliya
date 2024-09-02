@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Priyankajatoliya
-- 👀 I’m interested in programming languages like c,cpp, python MySQL and data structures using c and so on.
-- 🌱 I’m currently learning Bachelor of science in information technology and I am currently in 2nd year.
-- 💞️ I’m looking for internship which grow my skills and give some knowledge about team work and how to take initiative.
-- 📫 How to reach me by my GitHub id and from email jatoliyapriyanka6@gmail.com.
-
-<!---
-Priyankajatoliya/Priyankajatoliya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Priyanka Jatoliya Bachelor of Information Technology | VES College | Aspiring Software DeveloperAbout MeI’m currently pursuing a Bachelor's degree in Information Technology from VES College, with a passion for software development and a strong foundation in programming. I enjoy working on diverse projects that challenge my problem-solving skills and allow me to create impactful solutions.SkillsLanguages: C++, Java, Python, JavaScript, SQLWeb Development: HTML, CSS, JavaScript, React, Node.js, MERN StackSoftware Development: OOP Concepts, Data Structures, AlgorithmsTools & Technologies: Git, GitHub, Unity, Figma, MySQLOther: UI/UX Design, Agile MethodologiesProjectsPayroll Management SystemDeveloped using OOP concepts to automate employee payroll processing.Tech Stack: C++, MySQLBank Management SystemDesigned a comprehensive banking application with robust SQL database management.Tech Stack: Java, SQLTours and Travels WebsiteBuilt a dynamic website using the MERN stack to showcase travel packages and enable bookings.Tech Stack: MongoDB, Express.js, React, Node.jsAngry Birds Style GameCreated using Unity and C# to replicate the classic Angry Birds gameplay.Tech Stack: Unity, C#EducationBachelor of Information Technology
+VES College, Chembur
+Connect with Email: jatoliyapriyanka6@gmail.com
